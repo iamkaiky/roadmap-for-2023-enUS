@@ -20,12 +20,6 @@
 
 ###
 
-<br clear="both">
-
-<p align="left"></p>
-
-###
-
 <h3 align="left">start from the beginning</h3>
 
 ###
