@@ -193,6 +193,6 @@
 ###
 <h4>Roadmap designed by</h4>
 
-•[@Erik Marques](https://github.com/imerik1)
+• [@Erik Marques](https://github.com/imerik1)
 
 ###
