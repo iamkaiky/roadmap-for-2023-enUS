@@ -191,7 +191,6 @@
 
 ###
 
-<h4 align="left">- Roadmap designed by 
-- [@Erik Marques](https://github.com/imerik1)</h4>
+- [@imerik1](https://github.com/imerik1)
 
 ###
