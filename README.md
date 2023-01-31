@@ -171,7 +171,7 @@
 
 ###
 
-<p align="left"><a href="https://scholar.google.com.br/" target="_blank">Google Scholar</a></p>
+<h4 align="left"><a href="https://scholar.google.com.br/" target="_blank">Google Scholar</a></h4>
 
 ###
 
