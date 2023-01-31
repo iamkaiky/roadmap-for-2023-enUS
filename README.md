@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">Go to <a href="https://youtube.com" target="_blank">PT-BR</a> translation</h4>
+<h4 align="left">Go to <a href="https://github.com/haxkaiky/roadmap-for-2023-ptBR" target="_blank">PT-BR</a> translation</h4>
 
 ###
 
