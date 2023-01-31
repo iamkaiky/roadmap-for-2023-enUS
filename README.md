@@ -12,7 +12,7 @@
 
 ###
 
-<h5 align="left">Go to PT•BR translation</h5>
+<h5 align="left">Go to <a href="https://youtube.com" target="_blank">PT-BR</a> translation</h5>
 
 ###
 
@@ -167,11 +167,11 @@
 
 ###
 
-<h4 align="left"><a href="https://youtube.com">YouTube</a></h4>
+<h4 align="left"><a href="https://youtube.com" target="_blank">YouTube</a></h4>
 
 ###
 
-<p align="left"><a href="https://scholar.google.com.br/ ">Google Scholar</a></p>
+<p align="left"><a href="https://scholar.google.com.br/" target="_blank">Google Scholar</a></p>
 
 ###
 
