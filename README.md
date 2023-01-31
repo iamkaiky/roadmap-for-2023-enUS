@@ -191,6 +191,7 @@
 
 ###
 <h4>Roadmap designed by</h4>
-- [@imerik1](https://github.com/imerik1)
+
+- [@Erik Marques](https://github.com/imerik1)
 
 ###
