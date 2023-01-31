@@ -12,7 +12,7 @@
 
 ###
 
-<h5 align="left">Go to <a href="https://youtube.com" target="_blank">PT-BR</a> translation</h5>
+<h4 align="left">Go to <a href="https://youtube.com" target="_blank">PT-BR</a> translation</h4>
 
 ###
 
